@@ -40,4 +40,4 @@ I care more about understanding the tools than collecting their logos.
 
 [My repositories](https://github.com/BernardSmall?tab=repositories) · [DogAdopt](https://github.com/BernardSmall/DogAdopt-Website) · [PickleRate](https://github.com/BernardSmall/Pickleball-Skill-Level-Finder-Website)
 
-<sub>Thanks for stopping by. <img src="assets/coffee.svg" width="20" height="20" alt="" /></sub>
+<sub>Thanks for stopping by.</sub>
