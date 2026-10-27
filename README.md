@@ -12,15 +12,15 @@ I'm looking for a **junior developer role or paid graduate opportunity** where I
 
 ### A few things I've built
 
-**[DogAdopt ↗](https://github.com/BernardSmall/DogAdopt-Website)**  
+**[DogAdopt ![](assets/external-link.svg)](https://github.com/BernardSmall/DogAdopt-Website)**  
 A dog-adoption web app with a React frontend, Express API and SQLite database. Includes accounts, adoption applications and contact forms.  
 `React` · `Node.js` · `Express` · `SQLite`
 
-**[PickleRate ↗](https://github.com/BernardSmall/Pickleball-Skill-Level-Finder-Website)**  
+**[PickleRate ![](assets/external-link.svg)](https://github.com/BernardSmall/Pickleball-Skill-Level-Finder-Website)**  
 A browser-based pickleball assessment and player-development prototype. It tracks assessments and progress in the browser.  
 `JavaScript` · `HTML` · `CSS` · `localStorage`
 
-**[One Kick Heroes HQ ↗](https://github.com/BernardSmall/one-kick-heroes-hq)**  
+**[One Kick Heroes HQ ![](assets/external-link.svg)](https://github.com/BernardSmall/one-kick-heroes-hq)**  
 A C# desktop application project.  
 `C#` · `.NET`
 
@@ -40,4 +40,4 @@ I care more about understanding the tools than collecting their logos.
 
 [My repositories](https://github.com/BernardSmall?tab=repositories) · [DogAdopt](https://github.com/BernardSmall/DogAdopt-Website) · [PickleRate](https://github.com/BernardSmall/Pickleball-Skill-Level-Finder-Website)
 
-<sub>Thanks for stopping by. ☕</sub>
+<sub>Thanks for stopping by. <img src="assets/coffee.svg" width="20" height="20" alt="" /></sub>
