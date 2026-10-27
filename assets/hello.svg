@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="265" viewBox="0 0 900 265" role="img" aria-label="Hey, I'm Bernard. An illustrated notebook with a laptop, plant and a little dog.">
+<rect width="900" height="265" rx="19" fill="#F6F1E7"/>
+<path d="M34 34h832v197H34z" fill="none" stroke="#DED5C5" stroke-width="1" stroke-dasharray="3 7"/>
+<text x="61" y="65" font-family="Verdana, sans-serif" font-size="12" letter-spacing="2.2" fill="#9A7967">A SMALL CORNER OF THE INTERNET</text>
+<text x="57" y="130" font-family="Georgia, serif" font-size="57" fill="#2F4039">Hey, I'm Bernard.</text>
+<path d="M63 144 Q172 153 287 143" stroke="#C4876D" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="62" y="182" font-family="Verdana,sans-serif" font-size="17" fill="#55685D">I enjoy building software and learning as I go.</text>
+<text x="62" y="209" font-family="Verdana,sans-serif" font-size="13" fill="#8D8171">software developer  /  curious by default</text>
+<!-- a hand-drawn little workstation -->
+<path d="M585 209 Q695 204 832 210" stroke="#B1A795" stroke-width="3" stroke-linecap="round" fill="none"/>
+<rect x="625" y="81" width="136" height="100" rx="10" fill="#D4E1D0" stroke="#36483F" stroke-width="3"/>
+<rect x="635" y="92" width="116" height="75" rx="5" fill="#32483E"/>
+<path d="m675 117 -13 12 13 12m39-24 13 12-13 12m-13-32-12 41" fill="none" stroke="#E4EBD9" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M610 184h165l-13 9H622z" fill="#B5C6B5" stroke="#36483F" stroke-width="3" stroke-linejoin="round"/>
+<!-- plant -->
+<path d="M812 180q-9-52 0-90" stroke="#465F45" stroke-width="3" fill="none"/>
+<path d="M810 132q-27-4-24-27 26-1 24 27zm1-19q28-7 26-31-26 2-26 31z" fill="#94AE88" stroke="#465F45" stroke-width="2"/>
+<path d="M797 181h32l-6 30h-20z" fill="#CA9578" stroke="#564A3F" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- friendly tiny dog, not a mascot -->
+<path d="M538 190q-4-27 17-31 21-4 29 15l2 19z" fill="#DCB68B" stroke="#4D463E" stroke-width="2.5"/>
+<path d="M543 169q-18-9-18 9 3 11 18 6m34-17q16-8 15 10-4 9-13 7" fill="#B78161" stroke="#4D463E" stroke-width="2.5"/>
+<ellipse cx="551" cy="180" rx="2.5" ry="3.2" fill="#453D35"/><ellipse cx="573" cy="180" rx="2.5" ry="3.2" fill="#453D35"/>
+<path d="M559 188q5 5 9 0" stroke="#453D35" stroke-width="2" fill="none" stroke-linecap="round"/>
+<!-- notebook star -->
+<path d="m846 56 5 12 12 5-12 5-5 12-5-12-12-5 12-5z" fill="#D9AE70"/>
+<circle cx="491" cy="86" r="4" fill="#C78A6B"/><circle cx="505" cy="77" r="2" fill="#879F85"/>
+</svg>
