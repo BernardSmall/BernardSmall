@@ -34,8 +34,6 @@ These are some of the technologies I've used in projects:
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,html,css,python,git,sqlite&perline=10" alt="C#, .NET, JavaScript, React, Node.js, HTML, CSS, Python, Git and SQLite" />
 </p>
 
-I care more about understanding the tools than collecting their logos.
-
 ### Elsewhere
 
 [My repositories](https://github.com/BernardSmall?tab=repositories) · [DogAdopt](https://github.com/BernardSmall/DogAdopt-Website) · [PickleRate](https://github.com/BernardSmall/Pickleball-Skill-Level-Finder-Website)
