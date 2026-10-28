@@ -12,6 +12,8 @@ I'm looking for a **junior developer role or paid graduate opportunity** where I
 
 ### A few things I've built
 
+<img src="assets/projects.svg" width="100%" alt="Illustrations for dog adoption, pickleball assessment, and a software application" />
+
 **[DogAdopt ![](assets/external-link.svg)](https://github.com/BernardSmall/DogAdopt-Website)**  
 A dog-adoption web app with a React frontend, Express API and SQLite database. Includes accounts, adoption applications and contact forms.  
 `React` · `Node.js` · `Express` · `SQLite`
