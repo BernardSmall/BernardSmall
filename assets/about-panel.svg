@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="365" viewBox="0 0 1000 365" role="img">
+<rect width="1000" height="365" rx="20" fill="#0D1719"/>
+<rect x="16" y="16" width="968" height="333" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
+<circle cx="46" cy="43" r="6" fill="#D6A57A"/><circle cx="65" cy="43" r="6" fill="#D3BE8E"/><circle cx="84" cy="43" r="6" fill="#78AD99"/>
+<text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">01 / A LITTLE ABOUT ME</text>
+<path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
+<text x="41" y="151" font-size="30" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">A little about me</text>
+<text x="42" y="192" font-size="20" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">I&#x27;m a software developer who likes taking an idea, figuring out the messy parts, and turning</text>
+<text x="42" y="222" font-size="20" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">it into something people can use. I enjoy working across the frontend and backend, and I</text>
+<text x="42" y="252" font-size="20" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">learn a lot by building things from scratch.</text>
+<text x="42" y="301" font-size="20" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">I&#x27;m looking for a junior developer role or paid graduate opportunity where I can keep</text>
+<text x="42" y="331" font-size="20" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">learning and contribute to a real team.</text>
+</svg>

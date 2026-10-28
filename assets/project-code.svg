@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img">
+<rect width="1000" height="260" rx="20" fill="#0D1719"/>
+<rect x="16" y="16" width="968" height="228" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
+<circle cx="46" cy="43" r="6" fill="#D6A57A"/><circle cx="65" cy="43" r="6" fill="#D3BE8E"/><circle cx="84" cy="43" r="6" fill="#78AD99"/>
+<text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">02C / ONE KICK HEROES HQ</text>
+<path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
+<text x="41" y="151" font-size="30" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">One Kick Heroes HQ</text>
+<rect x="840" y="83" width="90" height="64" rx="7" fill="none" stroke="#A6CDB9" stroke-width="4"/>
+<path d="m869 102-13 14 13 14m34-28 13 14-13 14" fill="none" stroke="#A6CDB9" stroke-width="4"/>
+<text x="42" y="178" font-size="18" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">A C# desktop application project.</text>
+<text x="42" y="235" font-size="15" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">C# · .NET</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="335" viewBox="0 0 1000 335" role="img">
+<rect width="1000" height="335" rx="20" fill="#0D1719"/>
+<rect x="16" y="16" width="968" height="303" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
+<circle cx="46" cy="43" r="6" fill="#D6A57A"/><circle cx="65" cy="43" r="6" fill="#D3BE8E"/><circle cx="84" cy="43" r="6" fill="#78AD99"/>
+<text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">03 / MY TOOLBOX</text>
+<path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
+<text x="41" y="151" font-size="30" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">My toolbox</text>
+<text x="41" y="188" font-size="19" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">These are some of the technologies I&#x27;ve used in projects:</text>
+<rect x="42" y="215" width="77" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="56" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">C#</text>
+<rect x="129" y="215" width="77" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="143" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">.NET</text>
+<rect x="216" y="215" width="142" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="230" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">JavaScript</text>
+<rect x="368" y="215" width="87" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="382" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">React</text>
+<rect x="465" y="215" width="109" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="479" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">Node.js</text>
+<rect x="584" y="215" width="77" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="598" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">HTML</text>
+<rect x="671" y="215" width="77" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="685" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">CSS</text>
+<rect x="758" y="215" width="98" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="772" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">Python</text>
+<rect x="866" y="215" width="77" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="880" y="241" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">Git</text>
+<rect x="42" y="264" width="98" height="39" rx="9" fill="#24473F" stroke="#3D6C5D"/>
+<text x="56" y="290" font-size="17" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">SQLite</text>
+</svg>

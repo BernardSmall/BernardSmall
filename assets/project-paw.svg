@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img">
+<rect width="1000" height="260" rx="20" fill="#0D1719"/>
+<rect x="16" y="16" width="968" height="228" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
+<circle cx="46" cy="43" r="6" fill="#D6A57A"/><circle cx="65" cy="43" r="6" fill="#D3BE8E"/><circle cx="84" cy="43" r="6" fill="#78AD99"/>
+<text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">02A / DOGADOPT</text>
+<path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
+<text x="41" y="151" font-size="30" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">DogAdopt</text>
+<circle cx="867" cy="91" r="9" fill="#A6CDB9"/>
+<circle cx="894" cy="89" r="9" fill="#A6CDB9"/>
+<circle cx="917" cy="107" r="9" fill="#A6CDB9"/>
+<circle cx="853" cy="118" r="9" fill="#A6CDB9"/>
+<ellipse cx="886" cy="135" rx="27" ry="20" fill="#A6CDB9"/>
+<text x="42" y="178" font-size="18" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">A dog-adoption web app with a React frontend, Express API and SQLite database. Includes</text>
+<text x="42" y="203" font-size="18" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">accounts, adoption applications and contact forms.</text>
+<text x="42" y="235" font-size="15" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">React · Node.js · Express · SQLite</text>
+</svg>
