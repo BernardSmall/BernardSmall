@@ -5,11 +5,7 @@
 <text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">02A / DOGADOPT</text>
 <path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
 <text x="41" y="151" font-size="30" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#EFF4EF">DogAdopt</text>
-<circle cx="867" cy="91" r="9" fill="#A6CDB9"/>
-<circle cx="894" cy="89" r="9" fill="#A6CDB9"/>
-<circle cx="917" cy="107" r="9" fill="#A6CDB9"/>
-<circle cx="853" cy="118" r="9" fill="#A6CDB9"/>
-<ellipse cx="886" cy="135" rx="27" ry="20" fill="#A6CDB9"/>
+<g transform="translate(888 126) scale(.95)"><g fill="none" stroke="#A5CDB8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="-24" cy="-17" rx="7" ry="9" transform="rotate(-16 -24 -17)"/><ellipse cx="-8" cy="-31" rx="7" ry="9"/><ellipse cx="8" cy="-31" rx="7" ry="9"/><ellipse cx="24" cy="-17" rx="7" ry="9" transform="rotate(16 24 -17)"/><path d="M-24 10 C-24 1 -16 -5 -9 -8 C-4 -11 4 -11 9 -8 C16 -5 24 1 24 10 C24 21 14 26 0 22 C-14 26 -24 21 -24 10 Z"/></g></g>
 <text x="42" y="178" font-size="18" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">A dog-adoption web app with a React frontend, Express API and SQLite database. Includes</text>
 <text x="42" y="203" font-size="18" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#D1DDD7">accounts, adoption applications and contact forms.</text>
 <text x="42" y="235" font-size="15" font-weight="normal" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">React · Node.js · Express · SQLite</text>
