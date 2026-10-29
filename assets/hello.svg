@@ -1,11 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330" role="img" aria-label="Hey, I'm Bernard. I enjoy building software and learning as I go.">
+<style>
+  .ambient-a { animation: drift-a 13s ease-in-out infinite alternate; transform-origin: 870px 100px; }
+  .ambient-b { animation: drift-b 17s ease-in-out infinite alternate; transform-origin: 800px 180px; }
+  .twinkle { animation: shimmer 5s ease-in-out infinite; transform-origin: 914px 77px; }
+  .accent { animation: breathe 7s ease-in-out infinite; }
+  @keyframes drift-a { from { transform: translate(-7px, 4px); opacity: .30; } to { transform: translate(13px, -8px); opacity: .52; } }
+  @keyframes drift-b { from { transform: translate(11px, 6px); opacity: .36; } to { transform: translate(-10px, -10px); opacity: .55; } }
+  @keyframes shimmer { 0%,100% { opacity: .55; transform: scale(.94); } 50% { opacity: 1; transform: scale(1.07); } }
+  @keyframes breathe { 0%,100% { opacity: .72; } 50% { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .ambient-a, .ambient-b, .twinkle, .accent { animation: none !important; } }
+</style>
 <rect width="1000" height="330" rx="22" fill="#0D1719"/><rect x="17" y="17" width="966" height="296" rx="15" fill="none" stroke="#36554E" stroke-width="2"/>
-<circle cx="870" cy="100" r="116" fill="#203A38" opacity=".48"/><circle cx="800" cy="180" r="140" fill="#234541" opacity=".45"/>
+<circle class="ambient-a" cx="870" cy="100" r="116" fill="#203A38" opacity=".48"/><circle class="ambient-b" cx="800" cy="180" r="140" fill="#234541" opacity=".45"/>
 <path d="M42 71H566" stroke="#31514A" stroke-width="2" stroke-dasharray="3 9"/>
 <circle cx="68" cy="48" r="6" fill="#D99C78"/><circle cx="91" cy="48" r="6" fill="#D7BF7C"/><circle cx="114" cy="48" r="6" fill="#85B9A6"/>
 <text x="54" y="106" font-family="Verdana,Arial,sans-serif" letter-spacing="3.1" font-size="14" fill="#8FB8A7">A SMALL CORNER OF THE INTERNET</text>
 <text x="51" y="185" font-family="Georgia,serif" font-size="66" fill="#F3F4ED">Hey, I'm Bernard.</text>
-<path d="M58 198q134 11 267-3" stroke="#80AE9B" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path class="accent" d="M58 198q134 11 267-3" stroke="#80AE9B" stroke-width="4" fill="none" stroke-linecap="round"/>
 <text x="55" y="244" font-family="Verdana,Arial,sans-serif" font-size="18" fill="#DAE8DC">I enjoy building software and learning as I go.</text>
 <text x="56" y="278" font-family="Verdana,Arial,sans-serif" font-size="14" fill="#9BB3AA">software developer  /  curious by default</text>
 <!-- hand-drawn workstation icon -->
@@ -16,6 +27,6 @@
 <path d="M659 229h204l-16 15H674z" fill="#729B89"/>
 </g>
 <g stroke="#8DBBA9" stroke-width="3" fill="none" stroke-linecap="round"><path d="M891 226q-11-45 2-92"/><path d="M891 161q-34-8-25-37 27-1 25 37zm2-13q37-8 32-37-33 4-32 37z" fill="#789D83"/><path d="M870 231h44l-8 42h-27z" fill="#CF967B" stroke="#C4A48E"/></g>
-<path d="m914 56 7 14 14 7-14 7-7 14-7-14-14-7 14-7z" fill="#D2B575"/>
+<path class="twinkle" d="m914 56 7 14 14 7-14 7-7 14-7-14-14-7 14-7z" fill="#D2B575"/>
 <path d="M650 265q120 7 282 0" fill="none" stroke="#57796E" stroke-width="3" stroke-dasharray="1 12" stroke-linecap="round"/>
 </svg>
