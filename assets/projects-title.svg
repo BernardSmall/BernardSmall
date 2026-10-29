@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="178" viewBox="0 0 1000 178" role="img">
-<rect width="1000" height="178" rx="20" fill="#0D1719"/>
-<rect x="16" y="16" width="968" height="146" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="213" viewBox="0 0 1000 213" role="img">
+<rect width="1000" height="213" rx="20" fill="#0D1719"/>
+<rect x="16" y="16" width="968" height="181" rx="16" fill="#102326" stroke="#345950" stroke-width="2"/>
 <circle cx="46" cy="43" r="6" fill="#D6A57A"/><circle cx="65" cy="43" r="6" fill="#D3BE8E"/><circle cx="84" cy="43" r="6" fill="#78AD99"/>
 <text x="41" y="90" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif" fill="#A6CDB9">02 / A FEW THINGS I&#x27;VE BUILT</text>
 <path d="M41 105 H959" stroke="#345950" stroke-dasharray="3 8"/>
