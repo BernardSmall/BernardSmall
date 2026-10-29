@@ -2,7 +2,6 @@
 <style>
   .ambient-a { animation: drift-a 7.5s ease-in-out infinite alternate; }
   .ambient-b { animation: drift-b 10s ease-in-out infinite alternate; }
-  .twinkle { animation: shimmer 3.2s ease-in-out infinite; transform-origin: 914px 77px; }
   .accent { animation: breathe 3.9s ease-in-out infinite; }
   .screen { animation: screen-pulse 4.5s ease-in-out infinite; }
   .code-mark { animation: code-pulse 4.5s ease-in-out infinite; }
@@ -12,7 +11,6 @@
   .firefly-c { animation: firefly-c 5.8s ease-in-out infinite alternate; }
   @keyframes drift-a { from { transform: translate(-25px, 14px) scale(.97); opacity:.3; } to { transform: translate(30px, -16px) scale(1.08); opacity:.8; } }
   @keyframes drift-b { from { transform: translate(27px, 16px) scale(1.04); opacity:.7; } to { transform: translate(-31px, -17px) scale(.94); opacity:.28; } }
-  @keyframes shimmer { 0%,100% { opacity:.48; transform: scale(.82) rotate(-6deg); } 50% { opacity:1; transform: scale(1.23) rotate(8deg); } }
   @keyframes breathe { 0%,100% { opacity:.55; stroke-width:4; } 50% { opacity:1; stroke-width:6; } }
   @keyframes screen-pulse { 0%,100% { fill:#233C39; } 50% { fill:#315A4F; } }
   @keyframes code-pulse { 0%,100% { opacity:.76; } 50% { opacity:1; } }
@@ -20,7 +18,7 @@
   @keyframes firefly-a { from { transform:translate(0,0); opacity:.12; } to { transform:translate(-19px,-32px); opacity:.82; } }
   @keyframes firefly-b { from { transform:translate(0,0); opacity:.7; } to { transform:translate(24px,28px); opacity:.14; } }
   @keyframes firefly-c { from { transform:translate(0,0); opacity:.2; } to { transform:translate(-26px,19px); opacity:.9; } }
-  @media (prefers-reduced-motion:reduce) { .ambient-a,.ambient-b,.twinkle,.accent,.screen,.code-mark,.plant,.firefly-a,.firefly-b,.firefly-c { animation:none !important; } }
+  @media (prefers-reduced-motion:reduce) { .ambient-a,.ambient-b,.accent,.screen,.code-mark,.plant,.firefly-a,.firefly-b,.firefly-c { animation:none !important; } }
 </style>
 <rect width="1000" height="330" rx="22" fill="#0D1719"/><rect x="17" y="17" width="966" height="296" rx="15" fill="none" stroke="#36554E" stroke-width="2"/>
 <circle class="ambient-a" cx="870" cy="100" r="116" fill="#2C5D52" opacity=".48"/><circle class="ambient-b" cx="800" cy="180" r="140" fill="#27594D" opacity=".45"/>
@@ -40,6 +38,6 @@
 <path d="M659 229h204l-16 15H674z" fill="#729B89"/>
 </g>
 <g class="plant" stroke="#8DBBA9" stroke-width="3" fill="none" stroke-linecap="round"><path d="M891 226q-11-45 2-92"/><path d="M891 161q-34-8-25-37 27-1 25 37zm2-13q37-8 32-37-33 4-32 37z" fill="#789D83"/><path d="M870 231h44l-8 42h-27z" fill="#CF967B" stroke="#C4A48E"/></g>
-<path class="twinkle" d="m914 56 7 14 14 7-14 7-7 14-7-14-14-7 14-7z" fill="#D2B575"/>
+<path d="m914 56 7 14 14 7-14 7-7 14-7-14-14-7 14-7z" fill="#D2B575"/>
 <path d="M650 265q120 7 282 0" fill="none" stroke="#57796E" stroke-width="3" stroke-dasharray="1 12" stroke-linecap="round"/>
 </svg>
